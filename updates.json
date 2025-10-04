@@ -1,8 +1,8 @@
 {
   "latest": {
-    "version": "1.3.2",
-    "notes": "Ab sofort gibt es automatische updates wenn eine neue Version\nzur Verf\u00FCgung steht.\n\n- Drucken & als XPS/PDF speichern beigef\u00FCgt\n- Benutzeroberfl\u00E4che ein bisschen ge\u00E4ndert\n- Rollback zu \u00E4ltere Versionen falls die neue Version Probleme macht\n\nViel Erfolg, und lass es mich wissen wenn ich weiter helfen kann!\n\nGruß, Markus",
-    "url": "https://github.com/AbraxasNarith/StundenKalkulator-Updates/releases/download/v1.3.2/StundenKalkulator-1.3.2.zip"
+    "version": "1.4.0",
+    "notes": "Neu:\n\u2022 Ordnersystem f\u00fcr Monate: Der Button \"+ Neuer Eintrag\" wurde durch \"+ Neuer Ordner\" ersetzt. Eintr\u00e4ge werden nun innerhalb von Ordnern angelegt (Monat/Jahr).\n\u2022 Legacy-Eintr\u00e4ge: Bestehende Eintr\u00e4ge bleiben erhalten, werden unter den Ordnern angezeigt und mit dem Tag \"Legacy\" gekennzeichnet.\n\u2022 Drucken: Bei Eintr\u00e4gen innerhalb eines Ordners verwendet der Berichtstitel jetzt den Ordnernamen (z. B. \"Monats\u00fcbersicht TestOrdner_1\"). Legacy-Eintr\u00e4ge behalten ihr bisheriges Titelschema.\n\u2022 Maus\u00fcber-Icons bei Kindeintr\u00e4gen (Drucken/L\u00f6schen).\n\nVerbesserungen:\n\u2022 Es kann immer nur ein Ordner gleichzeitig aufgeklappt sein. Nach dem Anlegen eines neuen Eintrags wird der entsprechende Ordner ge\u00f6ffnet und andere werden zugeklappt.\n\u2022 Schutz vor Doppelungen: Bereits verwendete Ordnernamen werden abgefangen (mit Vorschlag \"<Name>_1\"). Innerhalb eines Ordners sind keine doppelten Monat/Jahr-Eintr\u00e4ge erlaubt.\n\nFehlerbehebungen:\n\u2022 Auswahl-Logik korrigiert: Beim Wechsel zwischen Legacy- und Ordner-Eintr\u00e4gen kommt es nicht mehr zu Mehrfachauswahl.\n\u2022 Ein Fehler wurde behoben, bei dem leere neue Eintr\u00e4ge nach einem Neustart als Legacy-Kopie auftauchen konnten.\n\u2022 Wirkungslosen \"Zur\u00fcck\"-Button im Anlegen-Dialog entfernt.",
+    "url": "https://github.com/AbraxasNarith/StundenKalkulator-Updates/releases/download/v1.4.0/StundenKalkulator.-.v1.4.0.7z"
   },
   "releases": [
     {
@@ -10,6 +10,12 @@
       "date": "2025-09-13",
       "notes": "Ab sofort gibt es automatische updates wenn eine neue Version\nzur Verf\u00FCgung steht.\n\n- Drucken & als XPS/PDF speichern beigef\u00FCgt\n- Benutzeroberfl\u00E4che ein bisschen ge\u00E4ndert\n- Rollback zu \u00E4ltere Versionen falls die neue Version Probleme macht\n\nViel Erfolg, und lass es mich wissen wenn ich weiter helfen kann!\n\nGruß, Markus",
       "url": "https://github.com/AbraxasNarith/StundenKalkulator-Updates/releases/download/v1.3.2/StundenKalkulator-1.3.2.zip"
+    }
+    {
+      "version": "1.4.0",
+      "date": "2025-10-04"
+      "notes": "Neu:\n\u2022 Ordnersystem f\u00fcr Monate: Der Button \"+ Neuer Eintrag\" wurde durch \"+ Neuer Ordner\" ersetzt. Eintr\u00e4ge werden nun innerhalb von Ordnern angelegt (Monat/Jahr).\n\u2022 Legacy-Eintr\u00e4ge: Bestehende Eintr\u00e4ge bleiben erhalten, werden unter den Ordnern angezeigt und mit dem Tag \"Legacy\" gekennzeichnet.\n\u2022 Drucken: Bei Eintr\u00e4gen innerhalb eines Ordners verwendet der Berichtstitel jetzt den Ordnernamen (z. B. \"Monats\u00fcbersicht TestOrdner_1\"). Legacy-Eintr\u00e4ge behalten ihr bisheriges Titelschema.\n\u2022 Maus\u00fcber-Icons bei Kindeintr\u00e4gen (Drucken/L\u00f6schen).\n\nVerbesserungen:\n\u2022 Es kann immer nur ein Ordner gleichzeitig aufgeklappt sein. Nach dem Anlegen eines neuen Eintrags wird der entsprechende Ordner ge\u00f6ffnet und andere werden zugeklappt.\n\u2022 Schutz vor Doppelungen: Bereits verwendete Ordnernamen werden abgefangen (mit Vorschlag \"<Name>_1\"). Innerhalb eines Ordners sind keine doppelten Monat/Jahr-Eintr\u00e4ge erlaubt.\n\nFehlerbehebungen:\n\u2022 Auswahl-Logik korrigiert: Beim Wechsel zwischen Legacy- und Ordner-Eintr\u00e4gen kommt es nicht mehr zu Mehrfachauswahl.\n\u2022 Ein Fehler wurde behoben, bei dem leere neue Eintr\u00e4ge nach einem Neustart als Legacy-Kopie auftauchen konnten.\n\u2022 Wirkungslosen \"Zur\u00fcck\"-Button im Anlegen-Dialog entfernt.",
+      "url": "https://github.com/AbraxasNarith/StundenKalkulator-Updates/releases/download/v1.4.0/StundenKalkulator.-.v1.4.0.7z"
     }
   ]
 }
