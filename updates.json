@@ -2,7 +2,7 @@
   "latest": {
     "version": "1.4.0",
     "notes": "Neu:\n\u2022 Ordnersystem f\u00fcr Monate: Der Button \"+ Neuer Eintrag\" wurde durch \"+ Neuer Ordner\" ersetzt. Eintr\u00e4ge werden nun innerhalb von Ordnern angelegt (Monat/Jahr).\n\u2022 Legacy-Eintr\u00e4ge: Bestehende Eintr\u00e4ge bleiben erhalten, werden unter den Ordnern angezeigt und mit \"Legacy\" gekennzeichnet.\n\u2022 Drucken: Bei Eintr\u00e4gen innerhalb eines Ordners verwendet der Berichtstitel jetzt den Ordnernamen. Legacy-Eintr\u00e4ge behalten ihr bisheriges Titelschema.\n\u2022 Maus\u00fcber Symbole bei Eintr\u00e4gen (Drucken/L\u00f6schen).\n\nVerbesserungen:\n\u2022 Es kann immer nur ein Ordner gleichzeitig aufgeklappt sein. Nach dem Anlegen eines neuen Eintrags wird der entsprechende Ordner ge\u00f6ffnet und andere werden zugeklappt.\n\nFehlerbehebungen:\n\u2022 Auswahl-Logik korrigiert: Beim Wechsel zwischen Legacy- und Ordner-Eintr\u00e4gen kommt es nicht mehr zu Mehrfachauswahl.\n\u2022 Ein Fehler wurde behoben, bei dem leere neue Eintr\u00e4ge nach einem Neustart als Legacy-Kopie auftauchen konnten.",
-    "url": "https://github.com/AbraxasNarith/StundenKalkulator-Updates/releases/download/v1.4.0/StundenKalkulator.-.v1.4.0.zip"
+    "url": "https://github.com/AbraxasNarith/StundenKalkulator-Updates/releases/download/v1.4.0/StundenKalkulator-v1.4.0.zip"
   },
   "releases": [
     {
@@ -15,7 +15,7 @@
       "version": "1.4.0",
       "date": "2025-10-04",
       "notes": "Neu:\n\u2022 Ordnersystem f\u00fcr Monate: Der Button \"+ Neuer Eintrag\" wurde durch \"+ Neuer Ordner\" ersetzt. Eintr\u00e4ge werden nun innerhalb von Ordnern angelegt (Monat/Jahr).\n\u2022 Legacy-Eintr\u00e4ge: Bestehende Eintr\u00e4ge bleiben erhalten, werden unter den Ordnern angezeigt und mit \"Legacy\" gekennzeichnet.\n\u2022 Drucken: Bei Eintr\u00e4gen innerhalb eines Ordners verwendet der Berichtstitel jetzt den Ordnernamen. Legacy-Eintr\u00e4ge behalten ihr bisheriges Titelschema.\n\u2022 Maus\u00fcber Symbole bei Eintr\u00e4gen (Drucken/L\u00f6schen).\n\nVerbesserungen:\n\u2022 Es kann immer nur ein Ordner gleichzeitig aufgeklappt sein. Nach dem Anlegen eines neuen Eintrags wird der entsprechende Ordner ge\u00f6ffnet und andere werden zugeklappt.\n\nFehlerbehebungen:\n\u2022 Auswahl-Logik korrigiert: Beim Wechsel zwischen Legacy- und Ordner-Eintr\u00e4gen kommt es nicht mehr zu Mehrfachauswahl.\n\u2022 Ein Fehler wurde behoben, bei dem leere neue Eintr\u00e4ge nach einem Neustart als Legacy-Kopie auftauchen konnten.",
-      "url": "https://github.com/AbraxasNarith/StundenKalkulator-Updates/releases/download/v1.4.0/StundenKalkulator.-.v1.4.0.zip"
+      "url": "https://github.com/AbraxasNarith/StundenKalkulator-Updates/releases/download/v1.4.0/StundenKalkulator-v1.4.0.zip"
     }
   ]
 }
